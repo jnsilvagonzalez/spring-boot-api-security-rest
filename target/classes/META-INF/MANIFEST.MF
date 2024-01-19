@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-api-rest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Juan Nicolas
+Implementation-Vendor-Id: com.client
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-api-rest
+Created-By: Maven Integration for Eclipse
+
